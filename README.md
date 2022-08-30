@@ -35,4 +35,4 @@ wearing/removing mask and display of prediction.
 
 ## Dataset
 
-The data used can be downloaded through this [link](https://www.kaggle.com/datasets/aneerbanchakraborty/face-mask-detection-data)There are 3725 images with mask and 3828 images without mask.
+The data used can be downloaded through this [link](https://www.kaggle.com/datasets/aneerbanchakraborty/face-mask-detection-data)There are 1915 images with mask and 1918 images without mask comprosing a total of 3833 images.
