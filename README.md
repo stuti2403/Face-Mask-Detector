@@ -29,7 +29,7 @@ wearing/removing mask and display of prediction.
 
 ## Working 
 
-### With Mask
+### Without Mask
 
 ![image](output.png)
 
