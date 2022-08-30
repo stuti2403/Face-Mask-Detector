@@ -6,37 +6,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 ## :innocent: Motivation
 Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. The absence of large datasets of __‘with_mask’__ images has made this task cumbersome and challenging. 
-
-## PPT and Project Report sharing costs ₹1000 ($15)
-If interested, contact me at chandrikadeb7@gmail.com
-
-# 🌟 [Purchase on Gumroad](https://gum.co/GetFaceMask)
- 
-## :hourglass: Project Demo
-:movie_camera: [YouTube Demo Link](https://youtu.be/wYwW7gAYyxw)
-
-:computer: [Dev Link](https://dev.to/chandrikadeb7/face-mask-detection-my-major-project-3fj3)
-
-[![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://face-mask--detection-app.herokuapp.com/)
-
-
-
-<p align="center"><img src="https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
 
 
 ## :warning: TechStack/framework used
 
 - [OpenCV](https://opencv.org/)
-- [Caffe-based face detector](https://caffe.berkeleyvision.org/)
+- [Haar Cascade froontal face detector](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 - [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/)
+<!-- - [TensorFlow](https://www.tensorflow.org/)
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
-
+ -->
 ## :star: Features
 Our face mask detector doesn't use any morphed masked images dataset and the model is accurate. Owing to the use of MobileNetV2 architecture, it is computationally efficient, thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
 
