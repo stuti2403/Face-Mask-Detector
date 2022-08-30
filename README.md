@@ -15,9 +15,9 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 - [OpenCV](https://opencv.org/)
 - [Haar Cascade froontal face detector](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 - [Keras](https://keras.io/)
-<!-- - [TensorFlow](https://www.tensorflow.org/)
-- [MobileNetV2](https://arxiv.org/abs/1801.04381)
- -->
+- [TensorFlow](https://www.tensorflow.org/)
+<!-- - [MobileNetV2](https://arxiv.org/abs/1801.04381) -->
+
 
 ## About Project
 This project uses a Deep Neural Network, more specifically a Convolutional Neural Network (CNN), to differentiate between images of people with and without masks. The CNN manages to get 
